@@ -10,6 +10,11 @@ import org.jfree.ui.RefineryUtilities;
 
 public class PieChart_AWT extends ApplicationFrame
 {
+    /**
+     * 
+     */
+    private static final long serialVersionUID = 1L;
+
     public PieChart_AWT(String title)
     {
         super(title);

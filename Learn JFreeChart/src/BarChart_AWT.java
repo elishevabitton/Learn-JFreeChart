@@ -9,6 +9,11 @@ import org.jfree.ui.RefineryUtilities;
 
 public class BarChart_AWT extends ApplicationFrame
 {
+    /**
+     * 
+     */
+    private static final long serialVersionUID = 1L;
+
     public BarChart_AWT(String applicationTitle, String chartTitle)
     {
         super(applicationTitle);

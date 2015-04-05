@@ -14,6 +14,11 @@ import org.jfree.chart.renderer.xy.XYLineAndShapeRenderer;
 
 public class XYLineChart_AWT extends ApplicationFrame
 {
+    /**
+     * 
+     */
+    private static final long serialVersionUID = 1L;
+
     public XYLineChart_AWT(String applicationTitle, String chartTitle)
     {
         super(applicationTitle);

@@ -8,6 +8,11 @@ import org.jfree.ui.RefineryUtilities;
 
 public class LineChart_AWT extends ApplicationFrame
 {
+    /**
+     * 
+     */
+    private static final long serialVersionUID = 1L;
+
     public LineChart_AWT(String applicationTitle, String chartTitle)
     {
         super(applicationTitle);

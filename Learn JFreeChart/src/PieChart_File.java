@@ -20,6 +20,7 @@ public class PieChart_File
         };
 
         InputStream in = new FileInputStream(new File("mobile.txt"));
+        @SuppressWarnings("resource")
         BufferedReader reader = new BufferedReader(new InputStreamReader(in));
         StringBuilder out = new StringBuilder();
         String line;

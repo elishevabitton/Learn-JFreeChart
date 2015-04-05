@@ -11,6 +11,11 @@ import org.jfree.ui.RefineryUtilities;
 
 public class TimeSeries_AWT extends ApplicationFrame
 {
+    /**
+     * 
+     */
+    private static final long serialVersionUID = 1L;
+
     public TimeSeries_AWT(final String title)
     {
         super(title);
